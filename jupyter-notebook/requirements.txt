@@ -1,0 +1,11 @@
+pdf2image
+pdfminer
+pdfminer.six
+openai
+scikit-learn
+rich
+tqdm
+unstructured
+langchain
+
+#docker run -d --name jupyter-notebook -p 8888:8888 -v /Users/vrg/Volumes/jupyter-notebook:/home/jovyan/work jupyter-notebook
